@@ -1,2 +1,2 @@
-# Threads-FftBOT
- Nyoba nyoba duluu
+# threads bot
+bot threads
